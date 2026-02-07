@@ -8,8 +8,23 @@
 - Good statistical and analytical thinking  
 - Focused on solving real-world business problems using data  
 
-<h2>Tools & Technologies</h2>
-Power BI  • Excel  • Python (Basics) • SQL (Learning)
+## 🛠 Skills & Tools  
+
+### Core  
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Intermediate-yellow?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
+
+### Development Tools  
+<p>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20Query-Data%20Transformation-0F9D58?style=for-the-badge">
+<img src="https://img.shields.io/badge/DAX-Data%20Modeling-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Dashboard-Design-6A5ACD?style=for-the-badge">
+</p>
 
 <h2>Projects</h2>
 - Sales Performance Analytics Dashboard — Power BI  
