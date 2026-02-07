@@ -1,6 +1,6 @@
 <h1 align="center">Tarun Gupta</h1>
 <h3 align="center">Data Analyst | BSc Mathematics Student</h3>
-<p align="center">I transform raw data into dashboards, reports, and actionable business insights.</p>
+<p align="center">I turn complex data into clear dashboards and insights that support smart business decisions.</p>
 
 ## 👤 About Me
 - Strong in Data Cleaning, Analysis, and Visualization  
