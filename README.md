@@ -1,39 +1,51 @@
-<h1 align="center">Hi, I'm Tarun Gupta</h1>
-<h3 align="center">Data Analyst | Turning Data into Decisions</h3>
+<h1 align="center">Tarun Gupta</h1>
+<h2 align="center">Aspiring Data Analyst | BSc Mathematics Student</h2>
 
 <p align="center">
-Data enthusiast with a Mathematics background who enjoys cleaning messy datasets, finding patterns, and building dashboards that turn numbers into clear business insights.
+I transform raw data into dashboards, reports, and actionable business insights.
 </p>
 
 ---
 
-### Tech Stack
-<p align="center">
-Power BI • Excel • Python • SQL (Learning) • DAX • Power Query • Data Modeling
-</p>
+<h2>About Me</h2>
+
+- Strong in Data Cleaning, Analysis, and Visualization  
+- Skilled at building interactive dashboards  
+- Good statistical and analytical thinking  
+- Focused on solving real-world business problems using data  
 
 ---
 
-### What I Work On
-• Data Cleaning & Transformation  
-• KPI Tracking & Performance Analysis  
-• Business Dashboards  
-• Statistical Insights  
+<h2>Tools & Technologies</h2>
+
+Power BI (DAX, Power Query, Data Modeling)  
+Excel (Advanced Formulas, Pivot Tables, Dashboards)  
+Python (Basics for Data Handling)  
+SQL (Learning)
 
 ---
 
-### Projects
-• Sales Performance Analytics Dashboard (Power BI)  
-• Sales & Investment Data Analysis (Excel)  
+<h2>Projects</h2>
+
+- Sales Performance Analytics Dashboard — Power BI  
+- Sales & Investment Data Analysis — Excel  
 
 ---
 
-### Currently Leveling Up
-SQL Queries • Database Handling • Advanced Data Analysis  
+<h2>Currently Learning</h2>
+
+SQL for Data Analysis and Database Queries  
 
 ---
 
-### Connect With Me
+<h2>Open To Opportunities</h2>
+
+Entry-level Data Analyst roles and Data internships  
+
+---
+
+<h2 align="center">Connect With Me</h2>
+
 <p align="center">
 <a href="mailto:tarungupta8199@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
