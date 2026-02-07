@@ -1,11 +1,45 @@
-Hi, I'm Tarun Gupta
+<h1 align="center">Tarun Gupta</h1>
+<h3 align="center">Aspiring Data Analyst | BSc Mathematics Student</h3>
 
-Data Analyst and BSc Mathematics student. 
+<p align="center">
+I transform raw data into dashboards, reports, and actionable business insights.
+</p>
 
-I specialize in cleaning, analyzing, and visualizing data to turn raw numbers into clear dashboards and actionable business insights.
+---
 
-Skills & Tools: Power BI (DAX, Power Query, Data Modeling), MS Excel (Advanced formulas, Pivot Tables, Dashboards), Python (Basics for data handling), SQL (learning).
+### About Me
+- Strong in Data Cleaning, Analysis, and Visualization  
+- Skilled at building interactive dashboards  
+- Good statistical and analytical thinking  
+- Focused on solving real-world business problems using data  
 
-Projects include a Sales Performance Analytics Dashboard in Power BI and Sales & Investment Data Analysis using Excel.
+---
 
-Currently seeking Data Analyst roles and data-related internships.
+### Tools & Technologies
+Power BI (DAX, Power Query, Data Modeling)  
+Excel (Advanced Formulas, Pivot Tables, Dashboards)  
+Python (Basics for Data Handling)  
+SQL (Learning)
+
+---
+
+### Projects
+- Sales Performance Analytics Dashboard — Power BI  
+- Sales & Investment Data Analysis — Excel  
+
+---
+
+### Currently Learning
+SQL for Data Analysis and Database Queries  
+
+---
+
+### Open To Opportunities
+Entry-level Data Analyst roles and Data internships  
+
+---
+
+### Connect With Me
+India  
+Email: tarungupta8199@gmail.com  
+LinkedIn: www.linkedin.com/in/tarungupta819  
