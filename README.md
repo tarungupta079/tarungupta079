@@ -1,45 +1,44 @@
-<h1 align="center">Tarun Gupta</h1>
-<h3 align="center">Aspiring Data Analyst | BSc Mathematics Student</h3>
+<h1 align="center">Hi, I'm Tarun Gupta</h1>
+<h3 align="center">Data Analyst | Turning Data into Decisions</h3>
 
 <p align="center">
-I transform raw data into dashboards, reports, and actionable business insights.
+Data enthusiast with a Mathematics background who enjoys cleaning messy datasets, finding patterns, and building dashboards that turn numbers into clear business insights.
 </p>
 
 ---
 
-### About Me
-- Strong in Data Cleaning, Analysis, and Visualization  
-- Skilled at building interactive dashboards  
-- Good statistical and analytical thinking  
-- Focused on solving real-world business problems using data  
+### Tech Stack
+<p align="center">
+Power BI • Excel • Python • SQL (Learning) • DAX • Power Query • Data Modeling
+</p>
 
 ---
 
-### Tools & Technologies
-Power BI (DAX, Power Query, Data Modeling)  
-Excel (Advanced Formulas, Pivot Tables, Dashboards)  
-Python (Basics for Data Handling)  
-SQL (Learning)
+### What I Work On
+• Data Cleaning & Transformation  
+• KPI Tracking & Performance Analysis  
+• Business Dashboards  
+• Statistical Insights  
 
 ---
 
 ### Projects
-- Sales Performance Analytics Dashboard — Power BI  
-- Sales & Investment Data Analysis — Excel  
+• Sales Performance Analytics Dashboard (Power BI)  
+• Sales & Investment Data Analysis (Excel)  
 
 ---
 
-### Currently Learning
-SQL for Data Analysis and Database Queries  
-
----
-
-### Open To Opportunities
-Entry-level Data Analyst roles and Data internships  
+### Currently Leveling Up
+SQL Queries • Database Handling • Advanced Data Analysis  
 
 ---
 
 ### Connect With Me
-India  
-Email: tarungupta8199@gmail.com  
-LinkedIn: www.linkedin.com/in/tarungupta819  
+<p align="center">
+<a href="mailto:tarungupta8199@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/tarungupta819">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
