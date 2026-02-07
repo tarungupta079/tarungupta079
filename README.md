@@ -1,4 +1,7 @@
-Hi, I'm Tarun Gupta — Data Analyst and BSc Mathematics student. 
+Hi, I'm Tarun Gupta
+
+Data Analyst and BSc Mathematics student. 
+
 I specialize in cleaning, analyzing, and visualizing data to turn raw numbers into clear dashboards and actionable business insights.
 
 Skills & Tools: Power BI (DAX, Power Query, Data Modeling), MS Excel (Advanced formulas, Pivot Tables, Dashboards), Python (Basics for data handling), SQL (learning).
